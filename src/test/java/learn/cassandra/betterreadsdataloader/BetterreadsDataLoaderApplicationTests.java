@@ -1,4 +1,4 @@
-package learn.cassendra.betterreadsdataloader;
+package learn.cassandra.betterreadsdataloader;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

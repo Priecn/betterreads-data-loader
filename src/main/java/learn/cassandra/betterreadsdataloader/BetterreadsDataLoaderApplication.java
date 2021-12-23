@@ -1,6 +1,6 @@
-package learn.cassendra.betterreadsdataloader;
+package learn.cassandra.betterreadsdataloader;
 
-import learn.cassendra.betterreadsdataloader.connection.DataStaxAstraConfig;
+import learn.cassandra.betterreadsdataloader.connection.DataStaxAstraConfig;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.cassandra.CqlSessionBuilderCustomizer;

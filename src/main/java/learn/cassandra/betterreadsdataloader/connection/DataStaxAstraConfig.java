@@ -1,4 +1,4 @@
-package learn.cassendra.betterreadsdataloader.connection;
+package learn.cassandra.betterreadsdataloader.connection;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
