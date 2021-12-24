@@ -5,8 +5,8 @@ spring:
       request:
         timeout: 10s
       connection:
-        connect-timeout: 10s
-        init-query-timeout: 10s
+        connect-timeout: 50s
+        init-query-timeout: 50s
 
 
   config:
@@ -14,5 +14,7 @@ spring:
 
 datastax.astra:
   secure-connect-bundle: secure-connect-betterreads.zip
+
+spring.main.allow-circular-references: true
 
 
