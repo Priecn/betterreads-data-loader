@@ -15,6 +15,6 @@ spring:
 datastax.astra:
   secure-connect-bundle: secure-connect-betterreads.zip
 
-spring.main.allow-circular-references: true
+# spring.main.allow-circular-references: true
 
 
